@@ -1,0 +1,59 @@
+#todo {
+    background-color: #39b797;
+}
+
+#cabeza {
+    margin-bottom: 3em;
+    margin-top: 3em;
+}
+
+h1 {
+    text-align: center;
+    background-image: url("http://blog.panes-de-setas.com/wp-content/uploads/2014/12/colorful-triangles-background-1024x768.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-stretch: wider;
+}
+
+#barra {
+    text-align: center;
+}
+
+p {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    color: black;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+h6 {
+    margin-top: 30%;
+}
+
+#n1 {}
+
+#servicios {
+    margin-top: 10em;
+}
+
+#n2 {
+    margin-top: 3em;
+    margin-bottom: 3em;
+
+}
+
+#tex_abajo {
+    margin-top: 3em;
+
+}
+
+#serves {
+    margin-bottom: 5em;
+    background-color: #f2f2f285;
+}
+
+#n3 {
+    text-align: end;
+}
